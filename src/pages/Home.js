@@ -53,4 +53,7 @@ function Home() {
   );
 }
 
+Google emphasizes the importance of automated testing, with developers expected to write and maintain tests for their code.
+
+
 export default Home;
